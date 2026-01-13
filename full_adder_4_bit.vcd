@@ -1,0 +1,63 @@
+$date
+	Sat Dec 13 10:47:17 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_full_adder_4_bit $end
+$var wire 4 ! s [3:0] $end
+$var wire 1 " co $end
+$var reg 4 # a [3:0] $end
+$var reg 4 $ b [3:0] $end
+$var reg 1 % ci $end
+$scope module DUT $end
+$var wire 4 & a [3:0] $end
+$var wire 4 ' b [3:0] $end
+$var wire 1 % ci $end
+$var wire 4 ( s [3:0] $end
+$var wire 1 " co $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1111 (
+b1001 '
+b110 &
+0%
+b1001 $
+b110 #
+0"
+b1111 !
+$end
+#10
+b1 !
+b1 (
+1"
+b1011 $
+b1011 '
+#20
+b1001 !
+b1001 (
+0"
+b1001 $
+b1001 '
+b0 #
+b0 &
+#30
+b0 !
+b0 (
+b0 $
+b0 '
+#40
+1"
+b101 !
+b101 (
+b1111 $
+b1111 '
+b110 #
+b110 &
+#50

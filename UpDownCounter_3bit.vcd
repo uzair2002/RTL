@@ -1,0 +1,216 @@
+$date
+	Fri Dec 26 23:28:30 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_UpDownCounter_3bit $end
+$var wire 3 ! q_out [2:0] $end
+$var reg 1 " clk $end
+$var reg 3 # data_in [2:0] $end
+$var reg 1 $ load_en $end
+$var reg 1 % reset_n $end
+$var reg 1 & up_down $end
+$scope module DUT $end
+$var wire 1 " clk $end
+$var wire 3 ' data_in [2:0] $end
+$var wire 1 $ load_en $end
+$var wire 1 % reset_n $end
+$var wire 1 & up_down $end
+$var reg 3 ( q_out [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 (
+b0 '
+1&
+0%
+0$
+b0 #
+0"
+b0 !
+$end
+#5
+1"
+#10
+0"
+#12
+b1 !
+b1 (
+1%
+#15
+b10 !
+b10 (
+1"
+#20
+0"
+#25
+b11 !
+b11 (
+1"
+#30
+0"
+#35
+b100 !
+b100 (
+1"
+#40
+0"
+#45
+b101 !
+b101 (
+1"
+#50
+0"
+#55
+b110 !
+b110 (
+1"
+#60
+0"
+#65
+b111 !
+b111 (
+1"
+#70
+0"
+#75
+b0 !
+b0 (
+1"
+#80
+0"
+#82
+1$
+b101 #
+b101 '
+#85
+b101 !
+b101 (
+1"
+#90
+0"
+#92
+0$
+#95
+b110 !
+b110 (
+1"
+#100
+0"
+#105
+b111 !
+b111 (
+1"
+#110
+0"
+#115
+b0 !
+b0 (
+1"
+#120
+0"
+#125
+b1 !
+b1 (
+1"
+#130
+0"
+#132
+1$
+b10 #
+b10 '
+#135
+b10 !
+b10 (
+1"
+#140
+0"
+#142
+0$
+#145
+b11 !
+b11 (
+1"
+#150
+0"
+#152
+0&
+#155
+b10 !
+b10 (
+1"
+#160
+0"
+#165
+b1 !
+b1 (
+1"
+#170
+0"
+#175
+b0 !
+b0 (
+1"
+#180
+0"
+#185
+b111 !
+b111 (
+1"
+#190
+0"
+#195
+b110 !
+b110 (
+1"
+#200
+0"
+#202
+b0 !
+b0 (
+0%
+#205
+1"
+#210
+0"
+#212
+b111 !
+b111 (
+1%
+#215
+b110 !
+b110 (
+1"
+#220
+0"
+#225
+b101 !
+b101 (
+1"
+#230
+0"
+#235
+b100 !
+b100 (
+1"
+#240
+0"
+#245
+b11 !
+b11 (
+1"
+#250
+0"
+#255
+b10 !
+b10 (
+1"
+#260
+0"
+#262

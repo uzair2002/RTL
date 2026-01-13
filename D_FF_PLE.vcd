@@ -1,0 +1,51 @@
+$date
+	Tue Dec 16 22:54:10 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_D_FF_PLE $end
+$var wire 1 ! Q $end
+$var reg 1 " D $end
+$var reg 1 # LE $end
+$scope module DUT $end
+$var wire 1 " D $end
+$var wire 1 # LE $end
+$var reg 1 ! Q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x#
+x"
+x!
+$end
+#20
+0"
+0#
+#30
+0!
+1#
+#40
+1!
+1"
+#50
+0!
+0"
+#60
+1!
+1"
+#70
+0"
+0#
+#80
+1"
+#90
+0!
+0"
+1#
+#100

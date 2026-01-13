@@ -1,0 +1,77 @@
+$date
+	Wed Dec 24 00:56:46 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_D_FF_NET_NRES $end
+$var wire 1 ! q_out $end
+$var reg 1 " clk $end
+$var reg 1 # d_in $end
+$var reg 1 $ n_res $end
+$scope module DUT $end
+$var wire 1 " clk $end
+$var wire 1 # d_in $end
+$var wire 1 $ n_res $end
+$var reg 1 ! q_out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#5
+1"
+#10
+0"
+#12
+1$
+#15
+1"
+#20
+0"
+#22
+1#
+#25
+1!
+1"
+#30
+0"
+#32
+0#
+#35
+0!
+1"
+#40
+0"
+#42
+1#
+#45
+1!
+1"
+#50
+0"
+#52
+0!
+0$
+#55
+1"
+#59
+0#
+1$
+#60
+0"
+#65
+1"
+#70
+0"
+#75
+1"
+#79
