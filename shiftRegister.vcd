@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $date
 	Thu Jan 15 23:09:29 2026
 $end
@@ -83,3 +84,90 @@ $end
 #75
 0'
 1"
+=======
+$date
+	Thu Jan 15 23:09:29 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_shiftRegister $end
+$var wire 1 ! data_out $end
+$var reg 1 " clk $end
+$var reg 1 # data_in $end
+$var reg 1 $ reset_n $end
+$scope module DUT $end
+$var wire 1 " clk $end
+$var wire 1 # data_in $end
+$var wire 1 $ reset_n $end
+$var reg 1 ! data_out $end
+$var reg 1 % temp1_out $end
+$var reg 1 & temp2_out $end
+$var reg 1 ' temp3_out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5
+1"
+#10
+0"
+#15
+1%
+1#
+1$
+1"
+#20
+0"
+#25
+1&
+0%
+0#
+1"
+#30
+0"
+#35
+1'
+0&
+1%
+1#
+1"
+#40
+0"
+#45
+1!
+0'
+1&
+1"
+#50
+0"
+#55
+0!
+1'
+0%
+0#
+1"
+#60
+0"
+#65
+1!
+0&
+1"
+#70
+0"
+#75
+0'
+1"
+>>>>>>> e302a95bb10e9f649982298a248b87360d5fa7a7
